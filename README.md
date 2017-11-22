@@ -1,5 +1,5 @@
 # Introductory_R
-Material for introductory R workshop
+Materials for introductory R workshop at the HSS
 Initial upload
 
 1)tidy.Rmd - an rmd file with materials for day 2 and day 3
